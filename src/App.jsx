@@ -20,7 +20,7 @@ const App = () => {
 	return (
 		<div className='app-container'>
 			<h1>Pokemons API</h1>
-			<p>Al precionar el siguiente botón se obtendra una lista de pokemones</p>
+			<p>Al presionar el siguiente botón se obtendra una lista de pokemones</p>
 			<div className='action-content'>
 				<button
 					className='btn'
